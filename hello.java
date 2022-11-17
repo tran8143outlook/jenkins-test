@@ -1,5 +1,9 @@
+import java.util.logging.Logger;
+
 class Hello {
+  
+  static Logger logger = Logger.getLogger(Hello.class.getName());
   public static void main(String [] args){
-    System.out.println("Hello world ha ha...");   
+    lopgger.info("Hi");
   }
 }
