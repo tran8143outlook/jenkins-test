@@ -6,7 +6,7 @@ class Hello {
   
   static Logger logger = Logger.getLogger(Hello.class.getName());
   public static void main(String [] args){
-    logger.info("Hi hi hi hi webhooks 123");
+    logger.info("Hi hi hi hi webhooks 1234");
 
   }
 }
