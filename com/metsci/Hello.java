@@ -8,7 +8,5 @@ class Hello {
   public static void main(String [] args){
 
 	  logger.info("Hi hi hi hi webhooks 12345");
-	  logger.info("B");
-	      // b
   }
 }
